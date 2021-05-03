@@ -8,7 +8,7 @@
 
 ## Sample Screenshots
 
-![Registration Success](https://github.com/itsvermaji/registration-login-api/blob/master/screenshots/picinpic-camera.png)
+![Registration Success](https://github.com/itsvermaji/picture-in-picture/blob/master/screenshots/picinpic-camera.png)
 pic in pic mode of a camera application opened in background.
 
 
