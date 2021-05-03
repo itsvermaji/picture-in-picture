@@ -23,4 +23,4 @@ pic in pic mode of a camera application opened in background.
 
 Deepak - [@linkedin](https://www.linkedin.com/in/deepak-verma-6a5083189/) - deepakverma.pb34@gmail.com - 2018ucp1173@mnit.ac.in
 
-Project Link: [https://github.com/itsvermaji/registration-login-api](https://github.com/itsvermaji/registration-login-api)
+Project Link: [https://github.com/itsvermaji/picture-in-picture](https://github.com/itsvermaji/picture-in-picture)
